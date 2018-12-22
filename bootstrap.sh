@@ -5,6 +5,6 @@ sudo dpkg-reconfigure -f noninteractive tzdata
 
 sudo apt-get update -y
 
-sudo apt-get install -y git joe 
+sudo apt-get install -y git joe python-matplotlib
 
 sudo chown -R 1000 /home/vagrant/Notebooks
