@@ -21,6 +21,12 @@ Jupyter will be available at http://localhost:8888 with default password `geheim
 
 See the [Dockerfile](Docker/Dockerfile) for more information.
 
+## Download test data
+
+To download test data, run 
+
+    make download_data
+
 ## Vagrant usage on Windows 10
 
 Just run
