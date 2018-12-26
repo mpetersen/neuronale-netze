@@ -19,6 +19,8 @@ Or in just one line:
 
 Jupyter will be available at http://localhost:8888 with default password `geheim123` and you can stop the container with Ctrl-C.
 
+Notebooks are available at `work/` and data sets are available at `data/`.
+
 See the [Dockerfile](Docker/Dockerfile) for more information.
 
 ## Download test data
