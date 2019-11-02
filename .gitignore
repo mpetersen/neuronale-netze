@@ -2,6 +2,10 @@ Notebooks/.*
 Data/*
 !Data/README.md
 
+.DS_Store
+.ipython/
+.local/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
